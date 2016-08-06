@@ -1,0 +1,27 @@
+_repo: La-notte-del-Commendatore_11644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11644'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+- GITenberg
+title: La notte del Commendatore
+url: http://www.gutenberg.org/ebooks/11644
